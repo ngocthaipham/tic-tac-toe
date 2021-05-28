@@ -1,0 +1,82 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px) {        
+    #content .content-section {
+        width: 500px;
+    }
+    }
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+    #content .content-section {
+        width: 400px;
+    }
+    #nav li a {
+        font-size: 14px;
+        padding: 0px 18px;
+    }
+    #header .search-icon {
+        font-size: 18px ;
+    }
+    #slider .text-heading {
+        font-weight: 350;
+        font-size: 20px;
+    }
+    #slider .text-description {
+        font-size: 14px;
+    }
+    #content .section-heading {
+        font-size: 26px;
+        font-weight: 350;
+    }
+    #content .about-text {
+        font-size: 14px;
+    }
+    #content .member-img {
+        width: 122px;
+    }
+    #content .name-member {
+        font-size: 12px;
+    }
+    .place-buy-button {
+        padding: 8px 13px ;
+        font-size: 13px ;
+    }
+    }   
+    @media only screen and (max-width: 767px) {
+    #content .content-section {
+        width: 300px;
+    }
+    #nav li a {
+        font-size: 10px;
+        padding: 0px 12px ;
+    }
+    #header .search-icon {
+        font-size: 12px;
+    }
+    #header .search-btn {
+        padding: 0px 10px ;
+    }
+    #slider .text-heading {
+        font-weight: 200;
+        font-size: 16px;
+    }
+    #slider .text-description {
+        font-size: 13px;
+    }
+    #content .section-heading {
+        font-size: 22px;
+        font-weight: 200;
+    }
+    #content .about-text {
+        font-size: 13px;
+    }
+    #content .member-img {
+        width: 92px;
+    }
+    #content .name-member {
+        font-size: 9px;
+    }
+    .place-buy-button {
+        padding: 5px 10px ;
+        font-size: 11px ;
+    }
+    }
+    
